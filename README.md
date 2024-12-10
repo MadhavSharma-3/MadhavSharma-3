@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MadhavSharma-3
-- 👀 I’m interested in actually...nothing but making good things which actually is helpful to people 
-- 🌱 I’m currently learning how to use git and github :)
-- 💞️ I’m looking to collaborate on ... first let me learn the basics for the time being hopefully december end :) 
+- 👀 I’m interested in actually..
+- 🌱 I’m currently learning how to use git and github
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... using email 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
